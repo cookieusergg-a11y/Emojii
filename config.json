@@ -1,6 +1,6 @@
 {
-  "bot_token": "${BOT_TOKEN}",
-  "xrocket_api_key": "${XROCKET_API_KEY}",
+  "bot_token": "8981159449:AAGzygTSmv-C_Q3omz68HbXRSmdwyi0LTJo",
+  "xrocket_api_key": "d96b267da4a8b521ab0894622",
   "admin_ids": [8835124014],
   "stars_per_request": 1,
   "usd_per_request": 0.1,
