@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+database.sqlite3
+.env
+output/*
+packs/*
+temp/*

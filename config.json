@@ -1,0 +1,8 @@
+{
+  "bot_token": "${BOT_TOKEN}",
+  "xrocket_api_key": "${XROCKET_API_KEY}",
+  "admin_ids": [8835124014],
+  "stars_per_request": 1,
+  "usd_per_request": 0.1,
+  "xrocket_asset": "USDT"
+}
